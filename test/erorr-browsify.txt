@@ -1,0 +1,6 @@
+Error: Cannot find module 'C:\Users\user\Desktop\tyota\se18b-ex4-tdd-yudit12\test\*.js' from 'C:\Users\user\Desktop\tyota\se18b-ex4-tdd-yudit12'
+    at C:\Users\user\Desktop\tyota\se18b-ex4-tdd-yudit12\node_modules\browser-resolve\node_modules\resolve\lib\async.js:55:21
+    at load (C:\Users\user\Desktop\tyota\se18b-ex4-tdd-yudit12\node_modules\browser-resolve\node_modules\resolve\lib\async.js:69:43)
+    at onex (C:\Users\user\Desktop\tyota\se18b-ex4-tdd-yudit12\node_modules\browser-resolve\node_modules\resolve\lib\async.js:92:31)
+    at C:\Users\user\Desktop\tyota\se18b-ex4-tdd-yudit12\node_modules\browser-resolve\node_modules\resolve\lib\async.js:22:47
+    at FSReqWrap.oncomplete (fs.js:152:21)
